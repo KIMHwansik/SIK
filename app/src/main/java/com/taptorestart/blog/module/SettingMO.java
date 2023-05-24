@@ -3,7 +3,7 @@ package com.taptorestart.blog.module;
 import com.taptorestart.blog.BuildConfig;
 
 public class SettingMO {
-	public static String URL_HOME = "https://taptorestart.tistory.com";
+	public static String URL_HOME = "https://zx4453.tistory.com";
 	public static String URL_SEARCH = URL_HOME + "/search/";
 	public static String URL_PLAYSTORE = "https://play.google.com/store/apps/details?id=" + BuildConfig.APPLICATION_ID;;
 	public static String URL_MARKET = "market://details?id=" + BuildConfig.APPLICATION_ID;
